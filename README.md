@@ -28,4 +28,34 @@ NumPy
 
 Matplotlib
 
-Seaborn# Exploratory-Data-Analysis-Financial-Analysis
+Seaborn
+
+📂 Folder Structure
+
+financial-analysis-eda/
+├── Exploratory Data Analysis-Financial Analysis.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+▶️ How to Run
+
+Clone the repository:
+
+git clone https://github.com/yourusername/financial-analysis-eda.git
+cd financial-analysis-eda
+
+Create a virtual environment (optional but recommended):
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Launch the notebook:
+
+jupyter notebook
+
+Open Exploratory Data Analysis-Financial Analysis.ipynb
